@@ -1,0 +1,21 @@
+# include <stdio.h>
+
+	# include <conio.h>
+
+
+			main(){
+printf("Welcome to my second program");
+
+	printf("welcome to my last printf");
+
+	int x = 20 ;
+
+if(x == 20) 
+{
+			printf("It is twenty");
+						}elif{
+printf("hello there");
+}else {
+printf("It is not Twenty");
+				}
+					}
